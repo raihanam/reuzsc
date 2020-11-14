@@ -1,5 +1,5 @@
 {
-  "name": "BetaBOT",
+  "name": "BOTXR",
   "version": "1.0.0",
   "description": "bot wa yang mudah untuk digunakan",
   "main": "index.js",
@@ -39,7 +39,7 @@
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "RAIHAN AMIR",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/benisadewa/reuzsc/issues"
